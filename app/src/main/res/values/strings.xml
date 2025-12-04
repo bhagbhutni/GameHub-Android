@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GameHub</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe</string>
+    <string name="ludo">Ludo</string>
+    <string name="statistics">Statistics</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+</resources>
